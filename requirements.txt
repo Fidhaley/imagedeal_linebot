@@ -1,0 +1,10 @@
+line-bot-sdk
+flask
+scipy
+rembg
+Pillow
+pyimgur
+functions-framework
+google-search-results
+requests
+beautifulsoup4
